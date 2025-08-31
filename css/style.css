@@ -13,7 +13,8 @@
     --second-bg-color: #ffffff;
     --text-color: #1f2937;
     --second-color: rgb(0, 0, 0);
-    --main-color: #00A1FC;
+    //--main-color: #00A1FC;
+    --main-color: oklch(54.6% 0.245 262.881);
     --big-font: 5rem;
     --h2-font: 3rem;
     --p-font: 1.1rem;
